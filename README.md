@@ -1,6 +1,6 @@
 ## Hi 👋 , I'm Ricardo! 
 
-I'm a **computer scientist PhD** with over 15 years of experience working on **Data Science** and **Machine Learning**, both as a professor in academia and as an industry professional. I have worked extensively in many different problems that make use of tabular data, time series, image, audio, and natural language processing. 
+I'm a **Computer Scientist** with a PhD on Artificial Intelligence and over 15 years of experience working on **Data Science** and **Machine Learning**, both as a professor in academia and as an industry professional. I have worked extensively in many different problems that make use of tabular data, time series, image, audio, and natural language processing. 
 
 I founded the non-profit AI Innovation Hub at the Federal University of Pelotas in Brazil, which is dedicated to **R&D** and educating Brazilian companies about AI technology, and co-founded [Wida](https://wida.app), a platform that brings **Data Science to Mental Health** care. I provide **consulting services** through [DataFlair](https://dataflair.co), where I manage a small team that helps startups leverage cutting-edge data science and machine learning techniques.
 
