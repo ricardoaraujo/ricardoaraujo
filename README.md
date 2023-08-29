@@ -8,6 +8,7 @@ I founded the non-profit [AI Innovation Hub](http://ia.ufpel.edu.br) at the Fede
 #### What I've been doing 🛠️: 
 
 - Building the next-gen VC stack based on AI at [Inventus](https://www.inventuscap.com/)
+- Data Science and AI consulting at [Dataflair](https://www.dataflair.co)
 - Scientific research at [AI Innovation Hub](http://ia.ufpel.edu.br)
 
 #### I'm looking to collaborate 👯 on:
