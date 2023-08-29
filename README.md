@@ -7,8 +7,7 @@ I founded the non-profit [AI Innovation Hub](http://ia.ufpel.edu.br) at the Fede
 
 #### What I've been doing 🛠️: 
 
-- Working with [Stepfunction](https://stepfunction.ai) in modeling customer behavior
-- Tracking portfolio startups at [Inventus](https://www.inventuscap.com/)
+- Building the next-gen VC stack based on AI at [Inventus](https://www.inventuscap.com/)
 - Scientific research at [AI Innovation Hub](http://ia.ufpel.edu.br)
 
 #### I'm looking to collaborate 👯 on:
