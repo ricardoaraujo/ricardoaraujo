@@ -8,7 +8,7 @@ I founded the non-profit [AI Innovation Hub](http://ia.ufpel.edu.br) at the Fede
 #### What I've been doing 🛠️: 
 
 - Building the next-gen VC stack based on AI at [Inventus](https://www.inventuscap.com/)
-- Bringing AI to personalized cancer vaccine development at [BreakBio](https://breakbio.com/)
+- Bringing AI to personalized cancer immunotherapy development at [BreakBio](https://breakbio.com/)
 - Data Science and ML consulting at [Dataflair](https://www.dataflair.co)
 - Scientific research at [AI Innovation Hub](http://ia.ufpel.edu.br)
 
