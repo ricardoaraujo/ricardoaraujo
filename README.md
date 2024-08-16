@@ -29,5 +29,4 @@ I founded the non-profit [AI Innovation Hub](http://ia.ufpel.edu.br) at the Fede
 #### How to reach 📫 me:
 
 - LinkedIn: [linkedin.com/in/rmaraujo/](https://www.linkedin.com/in/rmaraujo/)
-- Twitter: [@ricardoaraujo](https://twitter.com/ricardoaraujo)
 - Email: [ricardo@dataflair.co](mailto:ricardo@dataflair.co)
